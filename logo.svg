@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="519.42474"
+   height="216.84375"
+   id="svg4718"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 31">
+  <defs
+     id="defs4720" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5494505"
+     inkscape:cx="227.23755"
+     inkscape:cy="-24.5677"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4723">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-44.90625,-29.03125)">
+    <rect
+       style="fill:#0088d3;fill-opacity:0.84390247;stroke:#f9f9f9;stroke-width:5.13250017;stroke-opacity:0.31219512"
+       id="rect4506"
+       width="244.01874"
+       height="211.71202"
+       x="47.483524"
+       y="31.611813"
+       inkscape:export-filename="/home/joaquintz/Pictures/labdac_4.svg.png"
+       inkscape:export-xdpi="216"
+       inkscape:export-ydpi="216" />
+    <text
+       xml:space="preserve"
+       style="font-size:205.30000305px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:199.00000095%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold Italic"
+       x="67.440796"
+       y="195.14948"
+       id="text2985"
+       sodipodi:linespacing="199%"
+       inkscape:export-filename="/home/joaquintz/Pictures/labdac_4.svg.png"
+       inkscape:export-xdpi="216"
+       inkscape:export-ydpi="216"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="67.440796"
+         y="195.14948"
+         style="font-size:164.24000549px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:199.00000095%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold Italic"><tspan
+           style="font-style:normal;font-weight:normal;fill:#ffffff;-inkscape-font-specification:Droid Sans"
+           id="tspan3090">lab</tspan><tspan
+           style="font-style:normal;font-weight:bold;-inkscape-font-specification:Droid Sans Bold"
+           id="tspan3094">dac</tspan></tspan></text>
+  </g>
+</svg>
