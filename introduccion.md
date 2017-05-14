@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introducción
-weight: 1
+order: 1
 ---
 
 Que es el labdac
