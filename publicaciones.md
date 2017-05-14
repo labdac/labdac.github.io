@@ -8,10 +8,15 @@ Papers publicados
 =================
 
 Argerich, L., Cano, M. J., & Torre Zaffaroni, J. (2016, November). 
-Hash2Vec: Feature Hashing for Word Embeddings. In Argentine Symposium on Artificial Intelligence (ASAI 2016)-JAIIO 45 (Tres de Febrero, 2016).
+Hash2Vec: **Feature Hashing for Word Embeddings**. 
+In *Argentine Symposium on Artificial Intelligence* (ASAI 2016)
+-JAIIO 45 (Tres de Febrero, 2016).
 
 Barrios, F., López, F., Argerich, L., & Wachenchauzer, R. (2015). 
-Variations of the Similarity Function of TextRank for Automated Summarization. In Argentine Symposium on Artificial Intelligence (ASAI 2015)-JAIIO 44 (Rosario, 2015).
+**Variations of the Similarity Function of TextRank for Automated 
+Summarization**. 
+In *Argentine Symposium on Artificial Intelligence* (ASAI 2015)
+-JAIIO 44 (Rosario, 2015).
 
 Trabajos Profesionales y Tesis de Grado
 =======================================
