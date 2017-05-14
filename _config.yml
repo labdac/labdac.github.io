@@ -1,8 +1,9 @@
 theme: minima
-title: LABDAC
-author: MC & JTZ
-email: email.com
-description: Agregar descripción!
+title: Laboratorio de Ciencia de Datos
+#author: MC & JTZ
+#email: email.com
+#description: Agregar descripción!
+github_username: labdac
 header_pages:
   - introduccion.md
   - publicaciones.md
