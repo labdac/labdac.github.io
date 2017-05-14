@@ -47,3 +47,13 @@ En estos casos, se agregan algunos trámites más como la escritura de
 la propuesta, presentación final de la misma, selección de tutor y 
 co-tutor, etc. 
 
+
+Líneas de Investigación
+=======================
+* Deep learning.   
+* Reinforcement learning.   
+* Análisis de redes sociales.  
+* Sistemas de recomendación.  
+* Procesamiento de Lenguaje Natural.  
+* Aprendizaje automático supervisado y no-supervisado.  
+
