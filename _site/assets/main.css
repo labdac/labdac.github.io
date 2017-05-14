@@ -184,10 +184,3 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .highlight .vg { color: #008080; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
-
-.wrapper { margin-top: 5px; }
-
-.site-nav { margin-top: -50px; }
-
-@media screen and (max-width: 600px) { .site-nav { margin-top: 0px; }
-  .wrapper { margin-top: 1px; } }
