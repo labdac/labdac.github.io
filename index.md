@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Introducción
+layout: home
+title: LABDAC
 ---
 
 
