@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trabajos
-weight: 2
+order: 2
 ---
 
 Papers publicados

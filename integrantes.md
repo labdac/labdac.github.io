@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Integrantes
-weight: 3
+order: 3
 ---
 
 * Lic. Esp. Luis Argerich, Profesor Adjunto con dedicación parcial FIUBA. Profesor Adjunto con dedicación semi-exclusiva UNTREF.

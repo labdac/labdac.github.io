@@ -1,6 +1,7 @@
 ---
 layout: home
 title: LABDAC
+hide_header_link: true
 ---
 
 

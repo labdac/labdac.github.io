@@ -1,1 +1,9 @@
 theme: minima
+title: LABDAC
+autor: MC & JTZ
+email: email.com
+description: Agregar descripción!
+header_pages:
+  - introduccion.md
+  - publicaciones.md
+  - integrantes.md
