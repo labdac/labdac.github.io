@@ -13,7 +13,8 @@ La física intenta describir los fenómenos que ve, armando modelos que
 comprendan ese comportamiento.   
 
 De la misma manera, la ciencia de datos mira los datos (todavía no
-*información*) e intenta dar sentido a los datos, utilizando y creando
+*información*) de los sistemas --de instrumentos de medición, de redes
+sociales, de organizaciones -- e intenta darles sentido, utilizando y creando
 métodos y algoritmos que:    
 * permitan visualizarlos
 * analicen su estructura, por ejemplo, dando métricas que los describan
