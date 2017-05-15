@@ -21,12 +21,22 @@ métodos y algoritmos que:
 * entiendan su distribución y puedan generar datos similares, o predecir
 nuevos valores   
 
-Con esa misión, buscamos tanto analizar y entender datos, y de desarrollar
+Con esa misión, buscamos tanto analizar y entender datos como desarrollar
 los métodos, algoritmos y estructuras de datos que permitan dar ese soporte.
+
+¿Qué pueden ser los datos? Una [serie de amistades en Facebook][fb-degrees], 
+unos [cuadros de Rembrandt][new-rembrandt], 
+un [manuscrito indescifrable][voynich], o las 
+[obras de Shakespeare][shakespeare]...
+
+[fb-degrees]: https://research.fb.com/three-and-a-half-degrees-of-separation/
+[new-rembrandt]: https://www.youtube.com/watch?v=IuygOYZ1Ngo
+[voynich]: http://blog.christianperone.com/2016/01/voynich-manuscript-word-vectors-and-t-sne-visualization-of-some-patterns/
+[shakespeare]: http://www.martingrandjean.ch/network-visualization-shakespeare/
 
 Por su naturaleza, es un campo interdisciplinario, integrando:    
 * estadística
-* inteligencia artificial
+* inteligencia artificial (*machine learning*)
 * ciencias de la computación
 * visualización    
 
