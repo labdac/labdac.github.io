@@ -14,7 +14,7 @@
    id="svg4718"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 31">
+   sodipodi:docname="labdac3.svg">
   <defs
      id="defs4720" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5494505"
-     inkscape:cx="227.23755"
+     inkscape:cx="112.68081"
      inkscape:cy="-24.5677"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,12 +57,12 @@
      inkscape:groupmode="layer"
      transform="translate(-44.90625,-29.03125)">
     <rect
-       style="fill:#0088d3;fill-opacity:0.84390247;stroke:#f9f9f9;stroke-width:5.13250017;stroke-opacity:0.31219512"
+       style="fill:#0088d3;fill-opacity:0.84390247;stroke:#f9f9f9;stroke-width:13.95800018;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.31219512;stroke-dasharray:none"
        id="rect4506"
-       width="244.01874"
-       height="211.71202"
-       x="47.483524"
-       y="31.611813"
+       width="247.22032"
+       height="211.04126"
+       x="50.72316"
+       y="31.624498"
        inkscape:export-filename="/home/joaquintz/Pictures/labdac_4.svg.png"
        inkscape:export-xdpi="216"
        inkscape:export-ydpi="216" />
