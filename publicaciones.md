@@ -6,8 +6,8 @@ order: 2
 Trabajos en curso
 =================
 
-[Aquí](/lineas.md) podrá encontrar información sobre las areas de investigación que se están estudiando en el Laboratorio.
-
+[Acá](/lineas.md) podés encontrar información sobre los proyectos
+actuales y propuestas de trabajo del laboratorio.
 
 Papers publicados
 =================
