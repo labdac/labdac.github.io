@@ -14,6 +14,10 @@ order: 1
 - __Proyecto: ["The shape of Movies, using topological data analysis to explore recommender systems"](/proyectos/Recsys_topo.md)__
 	- Estado: Empezando.
 	- Participantes: Luis Argerich, Joaquín Torre Zaffaroni, Matías Cano
+- __Proyecto: ["A comparison and baseline for recommender system algorithms"](/proyectos/Recsys_lenskit.md)__
+	- Estado: En curso.
+	- Participantes: Luis Argerich, Darío Miñones, Joaquín Torre Zaffaroni,
+Matías Cano (FIUBA), Michael Ekstrand, Maria Pera (Boise State U.)
 - __Proyecto: ["Investigación de métricas para sistemas de recomendación y su validación mediante pruebas de usuario."](/proyectos/Recsys_metrics_user_tests.md)__
 	- Estado: Pendiente.
 
