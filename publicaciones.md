@@ -3,6 +3,11 @@ layout: page
 title: Trabajos
 order: 2
 ---
+Trabajos en curso
+=================
+
+[Aquí](/lineas.md) podrá encontrar información sobre las areas de investigación que se están estudiando en el Laboratorio.
+
 
 Papers publicados
 =================
@@ -55,11 +60,4 @@ Trabajo Profesional de Ingeniería Informática.
 Trabajo Profesional de Ingeniería Informática.  
 **Presentado en 2015**.  
 Publicado en el Simposio Argentino de Inteligencia Artificial 2015.  
-
-Trabajos en curso
-=================
-
-* *Análisis topológico de sistemas de recomendación*.
-* *Comparación de métodos de recomendación en plataforma Lenskit*
-[Proyecto conjunto con Boise State University]
 
