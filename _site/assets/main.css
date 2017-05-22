@@ -187,7 +187,12 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .wrapper { margin-top: 5px; }
 
+.site-header { background: repeating-linear-gradient(45deg, #ffffff, #ffffff 10px, #fcfcfc 10px, #fcfcfc 20px); }
+
 .site-nav { margin-top: -50px; }
 
 @media screen and (max-width: 600px) { .site-nav { margin-top: 0px; }
   .wrapper { margin-top: 1px; } }
+.site-nav .page-link { padding: 10px; }
+
+.site-nav .page-link:hover { background: #eee; transition: 0.1s; text-decoration: none; }
