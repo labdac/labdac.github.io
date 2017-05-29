@@ -1,6 +1,7 @@
 theme: minima
 title: Laboratorio de Ciencia de Datos
 github_username: labdac
+google_analytics: UA-99991731-1
 header_pages:
   - introduccion.md
   - participar.md
