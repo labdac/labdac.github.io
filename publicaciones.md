@@ -14,13 +14,11 @@ Papers publicados
 
 Argerich, L., Golmar, N. (2017 June).
 **Generic LSH Families for the Angular Distance Based on Johnson-Lindenstrauss Projections and Feature Hashing LSH**
-In *Argentine Symposium of Big Data* (AGRANDA 2017)
--JAIIO 46 (Córdoba 2017)
+In *Argentine Symposium of Big Data* (AGRANDA 2017) JAIIO 46 (Córdoba 2017)
 
 Masi, G. Laura, J. Argerich, L. (2017 June)
  **From Imitation to Prediction, Data Compression vs Recurrent Neural Networks for Natural Language Processing**
- In *Argentine Symposium on Artificial Intelligence* (ASAI 2017)
- -JAIIO 46 (Córdoba 2017)
+ In *Argentine Symposium on Artificial Intelligence* (ASAI 2017) JAIIO 46 (Córdoba 2017)
 
 Argerich, L., Cano, M. J., & Torre Zaffaroni, J. (2016, November). 
 Hash2Vec: **Feature Hashing for Word Embeddings**. 
