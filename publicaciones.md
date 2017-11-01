@@ -39,11 +39,6 @@ Análisis de modelos recursivos para regresión en LSTMs.
 Tesis.  
 **En curso.**
 
- **Jorge Collinet, Juan Dausá, Jasmina Sella Faena.**  
-*Análisis Exploratorio de Datos y Segmentación de usuarios en restorando.com*  
-Trabajo Profesional de Ingeniería Informática.  
-**En curso**.
-
 **Manuel Iglesias.**  
 *Visualización de Contexto en Medios de Comunicación Digitales*.  
 Trabajo Profesional de Ingeniería Informática.  
@@ -56,6 +51,11 @@ Trabajo Profesional de Ingeniería Informática.
 **Presentado en 2016**.  
 Publicación presentada en 2017.  
 
+ **Jorge Collinet, Juan Dausá, Jasmina Sella Faena.**  
+*Análisis Exploratorio de Datos y Segmentación de usuarios en restorando.com*  
+Trabajo Profesional de Ingeniería Informática.  
+**Presentado en 2017**.  
+Publicación presentada en 2017.
 
 **Martín Buchwald, Ezequiel Genender.**  
 *Uso de Redes Neuronales Convolucionales para la Calificación de Imágenes

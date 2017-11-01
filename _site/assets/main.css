@@ -195,4 +195,4 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
   .wrapper { margin-top: 1px; } }
 .site-nav .page-link { padding: 10px; }
 
-.site-nav .page-link:hover { background: #eee; transition: 0.1s; text-decoration: none; }
+.site-nav .page-link:hover { background: #fcfcfc; transition: 0.1s; text-decoration: none; }
